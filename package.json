@@ -7,6 +7,10 @@
     "prepublish": "make -B",
     "test": "make test"
   },
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/timoxley/polyfill-webcomponents.git"
+  },
   "author": "Tim Oxley",
   "keywords": [
     "template",
